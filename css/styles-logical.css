@@ -35,6 +35,7 @@ body {
   color: var(--white30);
   font-family: 'Nunito', sans-serif;
   background: #251F24;
+  margin: 0;
   margin-block-end: 100px;
 }
 
